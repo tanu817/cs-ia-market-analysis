@@ -1,0 +1,5 @@
+# Downloaded NSE market data (large, re-downloadable from the app)
+Files/
+
+__pycache__/
+*.pyc
